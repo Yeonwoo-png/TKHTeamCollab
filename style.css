@@ -96,3 +96,33 @@
     margin-right: 5em;
     padding-right: 9em;
 }
+
+.game_selection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 2em;
+    padding: 4em;
+    flex-wrap: wrap;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    object-fit: cover;
+}
+
+.gamepic {
+    width: 100%;
+    height: 60%;
+    border: 2em;
+}
+
+.game_info {
+    border: 2px dotted;
+    padding: 2em;
+    margin-top: 3em;
+    font-size: 1.05em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
