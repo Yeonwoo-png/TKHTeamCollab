@@ -18,3 +18,18 @@
 .links {
     margin: 2em;
 }
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 16em;
+}
+
+.headshot {
+    width: 30%;
+}
+
+.intro_brief {
+    width: 60%;
+}
