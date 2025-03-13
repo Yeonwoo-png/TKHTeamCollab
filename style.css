@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.list {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+}
+
+.name {
+    margin-right: auto;
+}
+
+.links {
+    margin: 2em;
+}
