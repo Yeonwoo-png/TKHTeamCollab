@@ -46,11 +46,14 @@ a {
 }
 
 .headshot {
-    width: 30%;
+    border-radius: 50%;
+    width: 20em;
+    height: 20em;
 }
 
 .intro_brief {
     width: 60%;
+    color: crimson;
 }
 
 .passion {
@@ -140,6 +143,7 @@ a {
 
 .game_info {
     border: 2px dotted;
+    border-color: crimson;
     padding: 2em;
     margin-top: 3em;
     font-size: 1.05em;
