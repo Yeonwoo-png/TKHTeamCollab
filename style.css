@@ -38,12 +38,14 @@
     display: flex;
     flex-direction: row;
     align-items: center;
+    margin: 8em;
+    margin-bottom: 16em;
 }
 
 .instruments {
-    width: 30%;
-    margin: 4em;
+    width: 40%;
     padding: 4em;
+    margin-right: 3em;
 }
 
 .passion_content {
@@ -61,4 +63,36 @@
 .passion_brief {
     margin: 0;
     padding: 2em;
+}
+
+.likes {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin: 8em;
+    margin-bottom: 16em;
+}
+
+.beach {
+    width: 50%;
+    border-radius: 50%;
+}
+
+.likes_content {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 8em;
+    margin-right: 10em;
+}
+
+.likes_title {
+    margin: 0;
+    padding: 0.5em;
+}
+
+.likes_brief {
+    margin: 0;
+    padding: 1em;
+    margin-right: 5em;
+    padding-right: 9em;
 }
