@@ -33,3 +33,32 @@
 .intro_brief {
     width: 60%;
 }
+
+.passion {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.instruments {
+    width: 30%;
+    margin: 4em;
+    padding: 4em;
+}
+
+.passion_content {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 14em;
+    margin-left: 10em;
+}
+
+.passion_title {
+    margin: 0;
+    padding: 1em;
+}
+
+.passion_brief {
+    margin: 0;
+    padding: 2em;
+}
