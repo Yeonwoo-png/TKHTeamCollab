@@ -53,7 +53,6 @@ a {
 
 .intro_brief {
     width: 60%;
-    color: crimson;
 }
 
 .passion {
@@ -119,6 +118,10 @@ a {
     padding-right: 9em;
 }
 
+.game_title {
+    margin-left: 4em;
+}
+
 .game_selection {
     display: flex;
     flex-direction: row;
@@ -143,9 +146,17 @@ a {
 
 .game_info {
     border: 2px dotted;
-    border-color: crimson;
+    border-color: rgba(214,195,114);
     padding: 2em;
     margin-top: 3em;
     font-size: 1.05em;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p_color {
+    color: rgba(190,199,199);
+}
+
+.title_color {
+    color: rgba(214,195,114);
 }
