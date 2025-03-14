@@ -1,1 +1,3 @@
 # TKHTeamCollab
+
+Chris House likes a minimalist design with bold colors so I made a gradient from black to red and made that the background color. He wanted to get really good with the command prompt so I added a little mini command prompt at the bottom of the webpage and just decided to use that space for the contact form as well instead of making the webpage even longer and adding more code. He liked playing games like me so I decided to highlight some games that he likes and I wanted to make sections regarding what I thought were important pieces of information.
